@@ -1,1 +1,1 @@
-web: python main.py
+worker: python max_polling_bot.py
